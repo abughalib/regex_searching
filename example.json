@@ -1,0 +1,15 @@
+{
+    "code": "0000000000100",
+    "no_ocr": [],
+    "ocrs": {
+        "1": {
+            "detectedLanguages": [
+                {
+                    "confidence": 1,
+                    "languageCode": "fr"
+                }
+            ],
+            "text": "ille\nCourte, produit de France\nSERARE SAS 305 836 033 RCS EVRY\nREALISATION AGENCE TAKECARE\nIMPRIMERIE FUCHEY 173001 21 ARNAY -01/15\n"
+        }
+    }
+}
